@@ -144,6 +144,7 @@ CompileShaders()
 void 
 DrawVertices()
 {
+    //remove these bits, this comment is for a test commit.
     time_t timer;
     time(&timer);
 
